@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yeunglam.github.io" resolutions="1x" timestamp="1542761323233">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yeunglam.github.io" resolutions="1x" timestamp="1542762148445">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3970230800" ref="index"/>
-    <file name="nomq_index.css" crc="4129397041" ref="index"/>
+    <file name="index.css" crc="400616520" ref="index"/>
+    <file name="nomq_index.css" crc="4264548895" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -47,5 +47,5 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="313101197" seo="true" mt="1542761260660" redirect="true"/>
+  <file name="index.html" crc="439750990" seo="true" mt="1542762129474" redirect="true"/>
 </manifest>
